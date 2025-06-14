@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1748830348,
-      "filename": "lineage-rev-lineage-rev-18.1-20250602-UNOFFICIAL-d852.zip",
-      "id": "26d3a2cb649c2f5b8b2dfe42ea25da02c8084697d274a458eef560d979ff4048",
+      "datetime": 1749854720,
+      "filename": "lineage-rev-18.1-20250613-UNOFFICIAL-d852.zip",
+      "id": "9226b92962ddcf331d07c8d4b05211285dc75fb4a82c371d4270c2c9053fe64a",
       "romtype": "UNOFFICIAL",
-      "size": 564568186,
-      "url": "https://sourceforge.net/projects/rgb-roms/files/d852/lineage-rev-lineage-rev-18.1-20250602-UNOFFICIAL-d852.zip",
-      "version": "18.1-20250602-UNOFFICIAL-d852"
+      "size": 564766027,
+      "url": "https://github.com/Lost-Entrepreneur439/g3-releases/releases/download/2025-06-13/lineage-rev-18.1-20250613-UNOFFICIAL-d852.zip",
+      "version": "18.1-20250613-UNOFFICIAL-d852"
     }
   ]
 }
