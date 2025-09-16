@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1749854720,
-      "filename": "lineage-rev-18.1-20250613-UNOFFICIAL-d852.zip",
-      "id": "9226b92962ddcf331d07c8d4b05211285dc75fb4a82c371d4270c2c9053fe64a",
+      "datetime": 1757998561,
+      "filename": "lineage-rev-lineage-rev-18.1-20250916-UNOFFICIAL-d852.zip",
+      "id": "0ff336981bf7ff8b138d841f5bae7dd812359aa783d05081e0d33921d0b5b904",
       "romtype": "UNOFFICIAL",
-      "size": 564766027,
-      "url": "https://github.com/Lost-Entrepreneur439/g3-releases/releases/download/2025-06-13/lineage-rev-18.1-20250613-UNOFFICIAL-d852.zip",
-      "version": "18.1-20250613-UNOFFICIAL-d852"
+      "size": 566405756,
+      "url": "https://github.com/Lost-Entrepreneur439/g3-releases/releases/download/2025-09-16/lineage-rev-18.1-20250916-UNOFFICIAL-d852.zip",
+      "version": "18.1-20250916-UNOFFICIAL-d852"
     }
   ]
 }
